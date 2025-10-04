@@ -1,1 +1,1 @@
-# Programming-Principle
+# School Management System (Python)
