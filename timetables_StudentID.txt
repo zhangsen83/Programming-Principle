@@ -1,0 +1,29 @@
+Course Code : CS1024
+Course Name : Programing Principles
+Instructor  : Mr Hor
+Room Number : Room 112
+Time Slot   : 8:00AM - 9:30AM
+
+Course Code : CS1100
+Course Name : Computer Science
+Instructor  : Mr Wong
+Room Number : Room 214
+Time Slot   : 10:30AM - 12:00PM
+
+Course Code : EN1123
+Course Name : English
+Instructor  : Mrs Hu
+Room Number : Room 158
+Time Slot   : 13:30PM -  15:00PM
+
+Course Code : CM0275
+Course Name : Computer Mathematic
+Instructor  : Mr Tan
+Room Number : Room 075
+Time Slot   : 8:00AM - 9:30AM
+
+Course Code : WF0750
+Course Name : Web Fundamental
+Instructor  : Mr Wong
+Room Number : Room 238
+Time Slot   : 15:30 PM - 17:30 PM

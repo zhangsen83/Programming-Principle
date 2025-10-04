@@ -1,0 +1,19 @@
+Course Code: CS1024
+Assignment Name: Python
+Status: Submitted
+
+Course Code: CS1100
+Assignment Name: Algorithms
+Status: Submitted
+
+Course Code: EN1123
+Assignment Name: Essay
+Status: Pending
+
+Course Code: CM0275
+Assignment Name: Algebra
+Status: Pending
+
+Course Code: WF0750
+Assignment Name: Integration
+Status: Submitted
