@@ -51,8 +51,19 @@ ___
 
 
 📸 Screenshots
-/images/main_menu.png
-/images/student_menu.png
-/images/faculty_menu.png
+### Student Main Menu
+![Student Menu](images/student_img.png)
+
+### Attendance Main Menu
+![Attendance Menu](images/attendance_img.png)
+
+### Assingment Main Menu
+![Assingment Menu](images/assingment_img.png)
+
+### Timetable Main Menu
+![Timetable Menu](images/timetable_img.png)
+
+### Faculty Main Menu
+![Faculty Menu](images/faculty_img.png)
 
 
