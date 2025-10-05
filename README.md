@@ -36,7 +36,7 @@ Developed as part of the *Programming Principles* course.
    git clone https://github.com/yourusername/school-management-system.git
 
 2. Navigate into the folder:
-  cd school-management-system
+   cd school-management-system
 
 3. Ensure the following files are in the same directory:
   - main.py
