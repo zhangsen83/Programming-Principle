@@ -58,7 +58,7 @@ ___
 ![Attendance Menu](images/attendance_img.png)
 
 ### Assingment Main Menu
-![Assingment Menu](images/assingment_img.png)
+![Assingment Menu](images/assignment_img.png)
 
 ### Timetable Main Menu
 ![Timetable Menu](images/timetable_img.png)
