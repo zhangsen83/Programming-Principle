@@ -1,4 +1,4 @@
-# School Management System (Python)
+# Python-Based Classroom Management System
 A simple **Python-based School Management System** designed to manage **assignments, timetables, and attendance records**.  
 Developed as part of the *Programming Principles* course.
 
